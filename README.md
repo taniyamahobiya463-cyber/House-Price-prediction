@@ -1,3 +1,5 @@
+# House-Price-prediction
+House Price Prediction using Machine Learning
 # HomeValue — House Price Prediction UI
 
 A responsive HTML/CSS/JavaScript frontend connected to a Flask API and your supplied `linear_model.pkl` Linear Regression model.
